@@ -13,9 +13,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/24c5959e-8597-45f9-b618-aa082a8e5f9e" alt="Вкусвайп лента" width="480" />
-</p>
+ ![VkuSwipe swipes](https://github.com/nonsess/recipe-social-network/raw/main/docs/assets/swipes.gif)
 
 **Вкусвайп** — это современная социальная сеть для любителей кулинарии, объединяющая создание, поиск и персонализированные рекомендации рецептов. Платформа использует микросервисную архитектуру с интеллектуальной системой рекомендаций на основе эмбеддингов.
 
